@@ -1,0 +1,7 @@
+-What is the largest k you can use before overflow occurs? 
+for sum.c the largest k before overflow was 10^6 
+for sum_no_for no overflow occurred 
+-Is k the same for both functions? 
+No it is not
+-Which function is preferred to calculate the sum? 
+sum_no_for is preferred because no overflow occurred and it was faster.
